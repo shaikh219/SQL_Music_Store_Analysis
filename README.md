@@ -1,4 +1,5 @@
 # SQL_Music_Store_Analysis
+Digital store music analysis using SQL
 ## Database and Tools
 * Postgre SQL
 * PgAdmin4
